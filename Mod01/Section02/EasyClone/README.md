@@ -1,2 +1,0 @@
-
-- Repo added: https://github.com/learn-co-students/dsc-0-02-08-using-nested-loops-lab-online-ds-pt-041519.git
