@@ -15,7 +15,8 @@ class School():
             return self.roster[year]
         
     def sort_roster(self):
-        sorted_list = sorted(self.roster.values()) 
-        return sorted_list
+        for key in self.roster:
+            return self.roster[key].sort()
+            
 
     
