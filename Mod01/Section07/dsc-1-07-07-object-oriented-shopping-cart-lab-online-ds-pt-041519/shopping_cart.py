@@ -33,8 +33,7 @@ class ShoppingCart:
 
     def void_last_item(self):
         if self.items:
-            removed_item = self.items.pop()
-            
+            removed_item = self.items.pop()   
         else:
             return "You have no more items!"
         self.total -= removed_item['price']
