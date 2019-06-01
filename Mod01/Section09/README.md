@@ -5,5 +5,9 @@
 - Repo added: https://github.com/learn-co-students/dsc-1-09-13-normal-gaussian-distributions-lab-online-ds-pt-041519.git
 - Repo added: https://github.com/learn-co-students/dsc-1-09-15-standard-normal-distribution-lab-online-ds-pt-041519.git
 - Repo added: 
+<<<<<<< HEAD
 - Repo added: https://github.com/learn-co-students/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-pt-041519.git
 - Repo added: https://github.com/learn-co-students/dsc-1-09-15-standard-normal-distribution-lab-online-ds-pt-041519.git
+=======
+- Repo added: https://github.com/learn-co-students/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-pt-041519.git
+>>>>>>> b0d83eb377292b6be7670fac0221ebf42709c686

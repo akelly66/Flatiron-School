@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Standard Normal Distribution - Lab
 
@@ -135,3 +136,10 @@ The yields of apples trees in an orchard has been recorded in the file `yield.cs
 ## Summary 
 
 In this lab, you practiced your knowledge on the standard normal distribution!
+=======
+
+- Repo added: https://github.com/learn-co-students/dsc-0-10-04-cov-corr-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-0-10-07-simple-linear-regression-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-0-10-09-coefficient-of-determination-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-0-10-10-complete-regression-online-ds-pt-041519.git
+>>>>>>> b0d83eb377292b6be7670fac0221ebf42709c686
