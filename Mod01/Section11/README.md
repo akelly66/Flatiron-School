@@ -5,3 +5,5 @@
 - Repo added: https://github.com/learn-co-students/dsc-1-11-11-multiple-linear-regression-in-statsmodels-lab-online-ds-pt-041519.git
 - Repo added: https://github.com/learn-co-students/dsc-1-11-13-adjusted-r-squared-lab-online-ds-pt-041519.git
 - Repo added: https://github.com/learn-co-students/dsc-1-11-15-regression-model-validation-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-11-17-introduction-to-cross-validation-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-04-obtaining-our-data-lab-online-ds-pt-041519.git
