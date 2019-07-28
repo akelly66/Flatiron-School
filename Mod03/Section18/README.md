@@ -6,3 +6,4 @@
 - Repo added: https://github.com/learn-co-students/dsc-normal-distribution-lab-online-ds-pt-041519.git
 - Repo added: https://github.com/learn-co-students/dsc-standard-normal-distribution-lab-online-ds-pt-041519.git
 - Repo added: https://github.com/learn-co-students/dsc-one-sample-z-test-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-poisson-distribution-lab-online-ds-pt-041519.git
