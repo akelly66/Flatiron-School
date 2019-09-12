@@ -3,7 +3,7 @@ This project is for the Flatiron School Data Science program. It is an explorati
 an opensource database released by Microsoft with the Office Suite. Typically, it is used to practice SQL queries, however the following Jupyter notebook attempts to complete hypothesis tests utilizing Python.
 
 ## Database and ERD
-<a href"https://github.com/akelly66/Flatiron-School/blob/master/Mod03/Mod03-Final-Project/Northwind_small.sqlite">SQLite Database</a><br>
+<a href="https://github.com/akelly66/Flatiron-School/blob/master/Mod03/Mod03-Final-Project/Northwind_small.sqlite">SQLite Database</a><br>
 
 <a href="https://github.com/akelly66/Flatiron-School/blob/master/Mod03/Mod03-Final-Project/Northwind_ERD_updated.png">ERD</a>
 
