@@ -23,3 +23,8 @@ sns.set_style("whitegrid")
 import math
 import numpy as np
 import pandas as pd
+
+## Deliverables
+<a href="https://github.com/akelly66/Flatiron-School/blob/master/Mod03/Mod03-Final-Project/Mod03%20Final%20Project.ipynb">Jupyter Notebook</a>
+Executive Summary
+<a href="https://medium.com/@allisonkelly42/hypothesis-testing-with-the-northwind-database-d0382c9328bd">Blog Post</a>
