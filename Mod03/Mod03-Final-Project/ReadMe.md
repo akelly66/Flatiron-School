@@ -9,7 +9,7 @@ an opensource database released by Microsoft with the Office Suite. Typically, i
 
 ## Requirements
 
-`import sqlite3
+```import sqlite3
 import scipy
 import scipy.stats as stats
 import statsmodels as sm
@@ -22,7 +22,7 @@ sns.set_style("whitegrid")
 
 import math
 import numpy as np
-import pandas as pd`
+import pandas as pd```
 
 
 ## Deliverables
