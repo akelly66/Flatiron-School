@@ -22,10 +22,11 @@ sns.set_style("whitegrid")
 
 import math
 import numpy as np
-import pandas as pd```
+import pandas as pd
+```
 
 
 ## Deliverables
-<ul><a href="https://github.com/akelly66/Flatiron-School/blob/master/Mod03/Mod03-Final-Project/Mod03%20Final%20Project.ipynb">Jupyter Notebook</a><br>
-Executive Summary<br>
+<ul><a href="https://github.com/akelly66/Flatiron-School/blob/master/Mod03/Mod03-Final-Project/Mod03%20Final%20Project.ipynb">Notebook</a><br>
+<br>
 <a href="https://medium.com/@allisonkelly42/hypothesis-testing-with-the-northwind-database-d0382c9328bd">Blog Post</a></ul>
